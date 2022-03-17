@@ -1,0 +1,30 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size : cover ;
+
+}
+
+canvas{
+   border: 20px solid black; 
+   border-radius: 10px;
+}
+
+#link1{
+    border: 5px solid rgb(47, 47, 228); 
+   border-radius: 10px;
+background-color: rgb(75, 75, 243);
+color: white;
+font-size: 18px;
+}
